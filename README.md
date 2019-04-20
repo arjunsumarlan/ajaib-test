@@ -15,4 +15,4 @@ npm install
 react-native link
 react-native run-android
 ```
-And for look for other solution ( number 1 - 4 ), just opening "test-solutions" folder.
+And for other solution ( number 1 - 4 ), just open "test-solutions" folder.
